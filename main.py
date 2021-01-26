@@ -4,7 +4,7 @@ import random
 from pyperclip import copy #For copying the password generated to the clipboard
 from PIL imports image, ImageTk
 from tkinter import Tk, Label, Canvas, END, Button, Entry, IntVar, Radiobutton, Photoimage
-from tkinter.tik import combobox
+from tkinter.tik import combo
 
 #color
 color = "#00b894"
